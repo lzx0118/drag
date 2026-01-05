@@ -1,0 +1,11 @@
+# Minimal dependencies for the DRAG/D^3RAG repro scripts
+# (install according to your environment; GPU + CUDA recommended)
+
+torch
+transformers
+pandas
+tqdm
+numpy
+chromadb
+# COMET-QE reranking (Unbabel COMET)
+unbabel-comet

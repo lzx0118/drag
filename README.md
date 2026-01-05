@@ -1,4 +1,4 @@
-# DRAG / D³RAG (FullKB) — Anonymous Repro Package
+# DRAG (FullKB) — Anonymous Repro Package
 
 This repository provides a **minimal, script-only** reproduction of the DRAG/D³RAG pipeline:
 - **Judge** (LLM routing): domain + ambiguous terms + `need_retrieval`
